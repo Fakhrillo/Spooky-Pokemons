@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'pumpkin': "url('app/images/pumpkin.png')",
+        'bat': "url('/images/R.png')"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

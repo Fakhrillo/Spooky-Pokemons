@@ -1,4 +1,18 @@
+# Spooky Pokémon World
+
+![Spooky Image](.main.jpg)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Features
+- **Create Pokémon**: Enter a name, power, and upload an image to create a new Pokémon.
+- **Edit Pokémon**: Update Pokémon attributes (name, power, image) with an interactive modal.
+- **Delete Pokémon**: Easily remove Pokémon cards from the list.
+
+## Tech Stack
+- **Frontend**: React, Next.js, Tailwind CSS
+- **File Handling**: Client-side image upload and preview with URL object creation.
+
 
 ## Getting Started
 
